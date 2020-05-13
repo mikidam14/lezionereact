@@ -1,1 +1,3 @@
-# lezionereact
+La cartella "Lezioni" contiene tutti i file .html e .js che devi sostituire per ricreare ogni programma mostrato durante la lezione.
+
+Al momento il progetto caricato è "test-app": per caricare il progetto "props" devi eliminare le cartelle "src" e "public" contenute nella cartella root, poi devi andare in "Lezioni"->"Props", copiare le cartelle "src" e "public" e incollarle dentro alla cartella root.

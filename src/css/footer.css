@@ -1,0 +1,12 @@
+footer {
+	height:90px;
+	background-color: lightslategray;
+	color: whitesmoke;
+	margin-top: 0%;
+	text-align: left;
+	font-size: 14pt;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	padding: 10px;
+}
